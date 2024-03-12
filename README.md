@@ -1,5 +1,4 @@
-# stm32f7-ds1302-lib
-DS1302 functions for STM32f7XX using HAL, works with any frequency.
-* Can be adapted to STM32F4 replacing HAL calls.
+# STM32 DS1302 Library
+DS1302 functions for STM32 using HAL, works with any frequency.
 * Includes clock and RAM read/writing
 * Burst mode.
